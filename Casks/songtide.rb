@@ -1,6 +1,6 @@
 cask "songtide" do
-  version "1.1.20"
-  sha256 "bf78b7cf1b03a1ea191ce178b7878edd3918e2e819ac8750aae02f25036aa848"
+  version "1.1.21"
+  sha256 "e0f05aaa22b1af38bd241db18115ad2dcf6d9364fc9834eb7f995cfc6f8ab1ff"
 
   url "https://songtide.dcoded.dev/releases/Songtide-#{version}.dmg"
   name "Songtide"
